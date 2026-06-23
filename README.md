@@ -87,6 +87,4 @@ The system integrates an ESP32-CAM microcontroller, SX1278 LoRa module, MPU6050 
 ## Authors
 
 Niharika Raj  
-Mehek Gupta  
-Sreejit Das  
-Ritam Sinha Mahapatra
+
